@@ -21,7 +21,7 @@ This is a FastAPI-based Contact Management System that allows users to add and m
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/contact-management-api.git
+   git clone https://github.com/AmoghAgrawal1249/Identity.git
    cd contact-management-api
    ```
 
